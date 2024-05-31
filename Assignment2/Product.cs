@@ -24,12 +24,12 @@ namespace Assignment2
         }
 
         // Methods
-        public void IncreaseStock(int quantity)
+        public void IncreasedStock(int quantity)
         {
             Stock += quantity;
         }
 
-        public void DecreaseStock(int quantity)
+        public void DecreasedStock(int quantity)
         {
             if (Stock >= quantity)
             {
