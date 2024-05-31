@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using Assignment2;class Program
 {
     static void Main(string[] args)
@@ -22,3 +23,6 @@
         Console.ReadLine();
     }
 }
+=======
+﻿
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a

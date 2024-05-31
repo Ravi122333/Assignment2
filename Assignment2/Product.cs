@@ -17,6 +17,7 @@ namespace Assignment2
         // Constructor
         public Product(int productID, string productName, decimal price, int stock)
         {
+<<<<<<< HEAD
             if (productID < 1 || productID > 1000)
                 throw new ArgumentException("ProductID must be between 1 and 1000.");
 
@@ -29,6 +30,8 @@ namespace Assignment2
             if (stock < 1 || stock > 1000)
                 throw new ArgumentException("Stock must be between 1 and 1000.");
 
+=======
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a
             ProductID = productID;
             ProductName = productName;
             Price = price;
@@ -36,12 +39,20 @@ namespace Assignment2
         }
 
         // Methods
+<<<<<<< HEAD
         public void IncreaseStock(int quantity)
+=======
+        public void IncreasedStock(int quantity)
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a
         {
             Stock += quantity;
         }
 
+<<<<<<< HEAD
         public void DecreaseStock(int quantity)
+=======
+        public void DecreasedStock(int quantity)
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a
         {
             if (Stock >= quantity)
             {
@@ -53,5 +64,8 @@ namespace Assignment2
             }
         }
     }
+<<<<<<< HEAD
 
+=======
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a
 }

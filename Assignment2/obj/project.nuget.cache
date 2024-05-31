@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "GyiskCmyDyBPp7ZBVjCvxR+eIyxee4brx4SqSxd9iCyMvv2ZMm4LkldVRMLHnpQG4P5VTSh6WLdRkeclJNy5Sg==",
   "success": true,
   "projectFilePath": "D:\\Software Development Techniques\\Assignment2\\Assignment2\\Assignment2.csproj",
@@ -9,5 +10,11 @@
     "C:\\Users\\reddy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
     "C:\\Users\\reddy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "kYAZCMqblzVyWVuAKkhiRPZ/Z6NjnlbomsJoPiSuSbTZ9Irg0DE3S7ntjJg8FPIuDgTbzySBhXBJYdhfjFhAnw==",
+  "success": true,
+  "projectFilePath": "D:\\1ST SEM\\Assignment2\\Assignment2\\Assignment2.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> f6c56aab8ba8b3cc3d8f1fbe747abd329832378a
   "logs": []
 }
